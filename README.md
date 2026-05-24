@@ -18,6 +18,6 @@ Sistem akan membaca dataset mentah (`telco_raw`), memprosesnya (seperti memisahk
 * `.github/workflows/`: Berisi file konfigurasi YAML untuk menjalankan GitHub Actions.
 
 ## 👤 Author
-**Muhammad Mishbahul Muflihin** *Software Engineering Student at Darussalam Gontor University*
+**Muhammad Mishbahul Muflihin** *informatics Engineering Student at Darussalam Gontor University*
 <br>
  Email: [mishbahulmuflihin@gmail.com](mailto:mishbahulmuflihin@gmail.com)
