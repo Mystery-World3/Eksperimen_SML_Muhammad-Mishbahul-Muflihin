@@ -16,3 +16,8 @@ Sistem akan membaca dataset mentah (`telco_raw`), memprosesnya (seperti memisahk
 * `telco_raw/`: Berisi dataset mentah awal.
 * `preprocessing/`: Berisi *script* otomasi (`automate_Muhammad-Mishbahul-Muflihin.py`) dan folder `telco_preprocessing` yang menyimpan hasil data bersih (`X_train.csv`, `y_train.csv`, dll).
 * `.github/workflows/`: Berisi file konfigurasi YAML untuk menjalankan GitHub Actions.
+
+## 👤 Author
+**Muhammad Mishbahul Muflihin** *Software Engineering Student at Darussalam Gontor University*
+<br>
+ Email: [mishbahulmuflihin@gmail.com](mailto:mishbahulmuflihin@gmail.com)
